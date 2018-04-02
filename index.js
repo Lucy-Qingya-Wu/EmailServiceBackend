@@ -6,7 +6,7 @@ const app = express() // express() generates a new applicaiton that represents a
 
 app.get('/', (req, res)=>{
 	console.log("req: ", req)
-	res.send({hi:'there'});
+	res.send({message_from_lucy:'Hey, how you doin?'});
 })
 const PORT = process.env.PORT || 5000;
 app.listen(PORT)
