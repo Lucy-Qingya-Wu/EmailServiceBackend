@@ -1,12 +1,12 @@
 const express = require("express");
+require('./services/passport');
+
 
 // this app object here is used to set up configuration that will listen for incoming requests
-const app = express() // express() generates a new applicaiton that represents a running express app
+const app = express(); // express() generates a new applicaiton that represents a running express app
 
+require("./routes/authRoutes")(app);
 
-app.get('/', (req, res)=>{
-	console.log("req: ", req)
-	res.send({message_from_lucy:'Hey, how you doin?'});
-})
 const PORT = process.env.PORT || 5000;
-app.listen(PORT)
+app.listen(PORT);
+
