@@ -19,15 +19,15 @@ Regardless of whether or not you register as a Member, any use by you of these p
 
 3.	Account Name and Password
 
-    Each Member will create a unique account name and a password, registered in the Member’s name. Members cannot share their account name, account information and password with anyone else. Account information should be protected and kept secure by each Member. Access to the Website is controlled by account name and password.
+    1. Each Member will create a unique account name and a password, registered in the Member’s name. Members cannot share their account name, account information and password with anyone else. Account information should be protected and kept secure by each Member. Access to the Website is controlled by account name and password.
 
-  2.	The access that is granted to you under these Terms of Use to use the Website is personal to you, and non-transferable, and permits only your personal access to the Website. Any other third party access is strictly prohibited. You agree not to disclose your password to any other individual or entity, commercial or otherwise.
+    2. The access that is granted to you under these Terms of Use to use the Website is personal to you, and non-transferable, and permits only your personal access to the Website. Any other third party access is strictly prohibited. You agree not to disclose your password to any other individual or entity, commercial or otherwise.
 
-  3.	You agree that you are fully responsible for maintaining the confidentiality of your account name and password and that you will be responsible for any breach of this obligation, including any damages which flow from, or are connected to, such breach, without limitation.
+    3. You agree that you are fully responsible for maintaining the confidentiality of your account name and password and that you will be responsible for any breach of this obligation, including any damages which flow from, or are connected to, such breach, without limitation.
 
-  4.	You agree that you are fully responsible for all activities that occur under your password. You also agree to contact us immediately if you have any reason to believe that your password has been compromised. You further agree to ensure that you exit from your account at the end of each session. Convergence reserves the right to request a change of password at any time to protect the security of the Website. 
+    4. You agree that you are fully responsible for all activities that occur under your password. You also agree to contact us immediately if you have any reason to believe that your password has been compromised. You further agree to ensure that you exit from your account at the end of each session. Convergence reserves the right to request a change of password at any time to protect the security of the Website. 
 
-  5.	Members must advise Convergence immediately of any changes of Personal Information (as hereinafter defined) including name and email address by email to support@convergence.finance. If Convergence realizes that some of its records are inaccurate, it may contact the Member to verify its records. Convergence reserves the right to cancel any account for which it has incomplete or inaccurate Personal Information. 
+    5. Members must advise Convergence immediately of any changes of Personal Information (as hereinafter defined) including name and email address by email to support@convergence.finance. If Convergence realizes that some of its records are inaccurate, it may contact the Member to verify its records. Convergence reserves the right to cancel any account for which it has incomplete or inaccurate Personal Information. 
 
- 6.	Convergence reserves the right to refuse issuance of an account name and password to any person who does not follow the prescribed enrolment procedures. 
+    6. Convergence reserves the right to refuse issuance of an account name and password to any person who does not follow the prescribed enrolment procedures. 
 <br><br>
