@@ -10,7 +10,8 @@ Regardless of whether or not you register as a Member, any use by you of these p
 1.	Description of Convergence   
 
      Convergence (formerly referred to as the “Global Financial Exchange”) is a platform that brings together public and private investors for blended finance investments in emerging and frontier markets. Convergence is a non-profit corporation, registered in Ontario, Canada. 
-
+&nbsp;
+&nbsp;
 
 2.	Membership Enrolment
 
