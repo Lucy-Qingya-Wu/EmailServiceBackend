@@ -19,12 +19,9 @@ Regardless of whether or not you register as a Member, any use by you of these p
 
 3.	Account Name and Password
 
-____1. Each Member will create a unique account name and a password, registered in the Member’s name. Members cannot share their account name, account information and password with anyone else. Account information should be protected and kept secure by each Member. Access to the Website is controlled by account name and password.
+&nbsp;&nbsp;&nbsp;&nbsp;1. Each Member will create a unique account name and a password, registered in the Member’s name. Members cannot share their account name, account information and password with anyone else. Account information should be protected and kept secure by each Member. Access to the Website is controlled by account name and password.
 
-____2. The access that is granted to you under these Terms of Use to use the Website is personal to you, and non-transferable, and permits only your personal access to the Website. Any other third party access is strictly prohibited. You agree not to disclose your password to any other individual or entity, commercial or otherwise.
+&nbsp;&nbsp;&nbsp;&nbsp;2. The access that is granted to you under these Terms of Use to use the Website is personal to you, and non-transferable, and permits only your personal access to the Website. Any other third party access is strictly prohibited. You agree not to disclose your password to any other individual or entity, commercial or otherwise.
 
-____3. You agree that you are fully responsible for maintaining the confidentiality of your account name and password and that you will be responsible for any breach of this obligation, including any damages which flow from, or are connected to, such breach, without limitation.
-
-____4. You agree that you are fully responsible for all activities that occur under your password. You also agree to contact us immediately if you have any reason to believe that your password has been compromised. You further agree to ensure that you exit from your account at the end of each session. Convergence reserves the right to request a change of password at any time to protect the security of the Website. 
 
 
